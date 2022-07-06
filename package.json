@@ -1,0 +1,20 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "description": "So we can see how you'd fit in as a software engineer on our team, we'd like to see how you tackle new challenges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^18.0.1",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
